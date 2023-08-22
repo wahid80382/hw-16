@@ -1,0 +1,43 @@
+*{
+    padding=0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1130px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+li{
+    text-decoration: none;
+    text-transform: capitalize;
+}
+#manu{
+    width: 200px;
+    height: 700px;
+    background-color: cadetblue;
+    color:antiquewhite;
+    font-size: 20px;
+    font-weight: 600;
+ 
+}
+body{
+    background-color: bisque;
+    color:cadetblue;
+}
+#information{
+    width:930px;
+    padding: 20px;
+    
+}
+button{
+    padding: 10px;
+    background-color:cadetblue;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+
